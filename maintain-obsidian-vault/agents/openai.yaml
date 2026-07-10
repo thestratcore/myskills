@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain Obsidian Vault"
+  short_description: "Keep an Obsidian vault aligned and indexable"
+  default_prompt: "Use $maintain-obsidian-vault to audit and normalize this Obsidian vault."

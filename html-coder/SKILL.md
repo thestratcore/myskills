@@ -1,13 +1,10 @@
 ---
 name: html-coder
 description: 'Expert HTML development skill for building web pages, forms, and interactive content. Use when creating HTML documents, structuring web content, implementing semantic markup, adding forms and media, working with HTML5 APIs, or needing HTML templates, best practices, and accessibility guidance. Supports modern HTML5 standards and responsive design patterns.'
-homepage: https://clawhub.ai/jhauga/html-coder
-collaborators:
-  - make-skill-template
-  - finalize-agent-prompt
-provenance:
+license: MIT-0
+metadata:
+  homepage: https://clawhub.ai/jhauga/html-coder
   origin: clawhub-mit0
-  license: MIT-0
   upstream_url: https://clawhub.ai/jhauga/html-coder
   maintained_by: OpenSquilla
 ---
